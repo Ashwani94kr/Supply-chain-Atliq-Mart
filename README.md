@@ -45,3 +45,7 @@ and OnTime in full (OTIF) % of the customer orders on a daily basis against the 
 7. From Metric Performance overtime graph the OTIF, OT, IF values are approx. similar throughout services months (March to August)
 8. From Product Insite we come to known that our service mainly affects in term of LIFR% (Line fill rate)
 were as many lines orders we shipped out of the total line order is approx. 35% less
+
+Certificate of Submission
+![Screenshot 2022-12-12 120800](https://user-images.githubusercontent.com/110016087/206977878-9a7cc912-b996-4e22-b917-b8e814562a0c.png)
+
